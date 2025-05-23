@@ -6,5 +6,4 @@
 
 Conhecer lugares do mundo nunca foi tão fácil!
 
-> Descubra os melhores roteiros de viagens.
-> As comidas mais interessantes.
+> Descubra os melhores roteiros de viagens, as comidas mais interessantes.
